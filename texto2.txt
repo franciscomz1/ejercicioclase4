@@ -1,4 +1,8 @@
 vamos de nuevo
 modificoooo 
 probando en texto2
+<<<<<<< HEAD
 holachau
+=======
+Caro tb
+>>>>>>> 0edbb62f957f5dc42ad477147b502fc4067fb8fe
